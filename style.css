@@ -1,0 +1,107 @@
+nav{
+    display: flex;
+    justify-content:space-between ;
+}
+
+nav .logo{
+    font-size: 2rem
+    
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+
+nav li a{
+    padding: 2rem;
+    text-decoration: none;
+    color: white;
+}
+
+.selected{
+    font-weight: bold;
+}
+
+.highlight{
+    background-color: aqua;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+header{
+    background-image: url('WhatsApp Image 2022-03-28 at 8.16.08 PM.jpeg');
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    color: white;
+}
+
+body{
+    margin:0;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.content {
+    margin: 200px;
+}
+
+footer{
+    background-color: #565a82;
+    color: white;
+}
+
+footer ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    list-style-type: none;
+}
+
+footer strong{
+    color: #00c2ff
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
